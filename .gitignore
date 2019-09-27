@@ -1,2 +1,6 @@
 # Ignore Jupyter temp files
+notebooks/.ipynb_checkpoints
+notebooks/.ipython
+notebooks/.jupyter
 notebooks/.local
+notebooks/.bash_history
