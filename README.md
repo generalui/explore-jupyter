@@ -4,7 +4,7 @@ This project has been created to explore working with [Jupyter](https://jupyter.
 
 ## Getting started
 
-The easiest way to use this repo is to have [Docker](https://www.docker.com) installed and configured on your development machine.
+The easiest way to use this repo is to have [Docker Desktop for Mac/Windows](https://www.docker.com/products/docker-desktop) installed and configured on your development machine.
 
 Once this is complete, you can spin up the project by running:
 
