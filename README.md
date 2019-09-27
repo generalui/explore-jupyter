@@ -68,3 +68,5 @@ $ npm run docker:down
 [matplotlib - 2D and 3D plotting in Python](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) - Excellent resource to visually skim some possibilities mapping and plotting data.
 
 [Docker Compose for Data Science](https://www.andrewmahon.info/blog/docker-compose-data-science) - This is the resource that inspired building upon our original Docker setup.
+
+[Deploying a Containerized JupyterHub Server with Docker](https://opendreamkit.org/2018/10/17/jupyterhub-docker/) - If you are looking to deploy JupyterHub using Docker containers, take a look at this guide.
