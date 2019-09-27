@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRobBrennan/explore-jupyter.git"
+    "url": "git+https://github.com/generalui/explore-jupyter.git"
   },
   "bugs": {
-    "url": "https://github.com/TheRobBrennan/explore-jupyter/issues"
+    "url": "https://github.com/generalui/explore-jupyter/issues"
   },
-  "homepage": "https://github.com/TheRobBrennan/explore-jupyter#readme"
+  "homepage": "https://github.com/generalui/explore-jupyter#readme"
 }
