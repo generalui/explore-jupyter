@@ -1,7 +1,8 @@
 version: "3"
 services:
   datascience-notebook:
-      image: jupyter/datascience-notebook
+      # Refer to https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+      image: jupyter/datascience-notebook # Approximately ~4.78GB in size
       volumes:
         - ./notebooks:/home/jovyan/
       ports:
