@@ -64,3 +64,5 @@ $ npm run docker:down
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - This free book (available for purchase) and sample repos are a great way to get started working with Python and Jupyter notebooks.
 
 ![https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png](https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png)
+
+[matplotlib - 2D and 3D plotting in Python](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) - Excellent resource to visually skim some possibilities mapping and plotting data.
