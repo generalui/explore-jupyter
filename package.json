@@ -1,10 +1,15 @@
 {
   "name": "explore-jupyter",
   "version": "0.0.0",
-  "description": "",
-  "keywords": [],
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
+  "scripts": {
+    "start": "npm run docker:down && npm run docker:start",
+    "docker:start": "docker-compose up",
+    "docker:start:detached": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:logs": "docker-compose logs -f"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheRobBrennan/explore-jupyter.git"
