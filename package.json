@@ -1,0 +1,16 @@
+{
+  "name": "explore-jupyter",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/explore-jupyter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/explore-jupyter/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/explore-jupyter#readme"
+}
