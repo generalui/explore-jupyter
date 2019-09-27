@@ -57,4 +57,6 @@ $ npm run docker:down
 
 ## Resources
 
-[Jupyter Data Science Stack + Docker in under 15 minutes](https://towardsdatascience.com/jupyter-data-science-stack-docker-in-under-15-minutes-19d8f822bd45)
+[Jupyter Data Science Stack + Docker in under 15 minutes](https://towardsdatascience.com/jupyter-data-science-stack-docker-in-under-15-minutes-19d8f822bd45) - This article was the inspiration behind creating this repo.
+
+[Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) - Highly recommended if you're just dipping your toes into the world of Jupyter.
