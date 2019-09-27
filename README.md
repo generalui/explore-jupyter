@@ -57,4 +57,16 @@ $ npm run docker:down
 
 ## Resources
 
-[Jupyter Data Science Stack + Docker in under 15 minutes](https://towardsdatascience.com/jupyter-data-science-stack-docker-in-under-15-minutes-19d8f822bd45)
+[Jupyter Data Science Stack + Docker in under 15 minutes](https://towardsdatascience.com/jupyter-data-science-stack-docker-in-under-15-minutes-19d8f822bd45) - This article was the inspiration behind creating this repo.
+
+[Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) - Highly recommended if you're just dipping your toes into the world of Jupyter.
+
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - This free book (available for purchase) and sample repos are a great way to get started working with Python and Jupyter notebooks.
+
+![https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png](https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png)
+
+[matplotlib - 2D and 3D plotting in Python](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) - Excellent resource to visually skim some possibilities mapping and plotting data.
+
+[Docker Compose for Data Science](https://www.andrewmahon.info/blog/docker-compose-data-science) - This is the resource that inspired building upon our original Docker setup.
+
+[Deploying a Containerized JupyterHub Server with Docker](https://opendreamkit.org/2018/10/17/jupyterhub-docker/) - If you are looking to deploy JupyterHub using Docker containers, take a look at this guide.
